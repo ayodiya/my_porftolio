@@ -473,6 +473,12 @@ section .container {
   padding-right: 10px;
   line-height: 1;
 }
+
+.interests .icon-box img {
+  font-size: 32px;
+  padding-right: 10px;
+  line-height: 1;
+}
 .interests .icon-box h3 {
   font-weight: 700;
   margin: 0;
@@ -784,6 +790,7 @@ section .container {
   text-transform: uppercase;
   padding: 0;
   margin: 0;
+  text-align: left;
 }
 .portfolio .portfolio-wrap .portfolio-links {
   text-align: center;
